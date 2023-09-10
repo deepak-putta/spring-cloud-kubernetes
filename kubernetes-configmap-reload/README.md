@@ -1,6 +1,8 @@
 # kubernetes-configmap-reload
 
-Pre-requisites.  [ TAKE AMAZON LINUX2 SYSTEM t3.medium]:
+
+Pre-requisites. 
+[ TAKE AMAZON LINUX2 SYSTEM t3.medium]:
 --------
     - Install Git
     
